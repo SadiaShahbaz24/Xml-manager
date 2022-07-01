@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+  <Product>
+    <ID>78</ID>
+    <Name>chocolate</Name>
+    <Quantity>5</Quantity>
+    <Price>100</Price>
+    <Expiry>2023</Expiry>
+    <supID>88</supID>
+  </Product>
+  <Product>
+    <ID>788</ID>
+    <Name>coca cola</Name>
+    <Quantity>2</Quantity>
+    <Price>100</Price>
+    <Expiry>2021</Expiry>
+    <supID>99</supID>
+  </Product>
+  <Product>
+    <ID>2136</ID>
+    <Name>pizza</Name>
+    <Quantity>2</Quantity>
+    <Price>2000</Price>
+    <Expiry>2021</Expiry>
+    <supID>45</supID>
+  </Product>
+  <Product>
+    <ID>45</ID>
+    <Name>coffee</Name>
+    <Quantity>4</Quantity>
+    <Price>100</Price>
+    <Expiry>2021</Expiry>
+    <supID>89</supID>
+  </Product>
+</Products>
